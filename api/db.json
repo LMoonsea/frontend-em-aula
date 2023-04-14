@@ -5,35 +5,9 @@
       "email": "joca@silva.com",
       "subject": "Assunto do contato",
       "message": "Contato do Joquinha.",
+      "date": "2023-04-14 00:29:51",
+      "status": "received",
       "id": 1
-    },
-    {
-      "name": "Joca da Silva",
-      "email": "joca@silva.com",
-      "subject": "Assunto do contato",
-      "message": "Contato do Joquinha.",
-      "id": 2
-    },
-    {
-      "name": "Joca da Silva",
-      "email": "joca@silva.com",
-      "subject": "Assunto do contato",
-      "message": "Contato do Joquinha.",
-      "id": 3
-    },
-    {
-      "name": "Joca da Silva",
-      "email": "joca@silva.com",
-      "subject": "Assunto do contato",
-      "message": "Contato do Joquinha.",
-      "id": 4
-    },
-    {
-      "name": "Joca da Silva",
-      "email": "joca@silva.com",
-      "subject": "Assunto do contato",
-      "message": "Contato do Joquinha.",
-      "id": 5
     }
   ]
 }
