@@ -9,5 +9,31 @@
       "status": "received",
       "id": 1
     }
+  ],
+  "users" :[
+    {
+      "id": 1,
+      "date": "2023-04-17 17:45:24",
+      "name": "Joca da Silva",
+      "email":"joca@silva.com",
+      "photo": "https://randomuser.me/api/portraits/men/93.jpg",
+      "bio": "Programador, escultor, pintor, contornador e executor",
+      "social": "",
+      "type": "author",
+      "status": "on"  
+
+    },
+    {
+      "id": 2,
+      "date": "2023-04-17 17:50:24",
+      "name": "Maricleuza Siriliano",
+      "email": "mari@cleuza.com.br",
+      "photo": "https://randomuser.me/api/portraits/women/23.jpg",
+      "bio": "Biografa, stenografa, fotografa e farofa",
+      "social": "",
+      "type": "user",
+      "status": "on"
+
+    }
   ]
 }
